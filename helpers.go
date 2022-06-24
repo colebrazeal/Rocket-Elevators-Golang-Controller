@@ -20,6 +20,6 @@ func contains(s []int, e int) bool {
 var arr = [...]string{"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
 	"N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"}
 
-func toCharStrArr(i int) string {
-	return arr[i-1]
-}
+// func toCharStrArr(i int) string {
+// 	return arr[i-1]
+// }
